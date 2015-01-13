@@ -1,4 +1,3 @@
-from tkinter import *
 #!/usr/bin/python
 '''
 Title: Kampen's Method
@@ -6,6 +5,7 @@ Author: Adrian Emmanuel M. Antonio
 Date: April 22, 2014
 Description: Program to translate input word to MD5 hashes
 '''
+from tkinter import *
 from tkinter import ttk
 import hashlib
 
